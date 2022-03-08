@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: candara;
+}
+#ota{
+    background-color:rgb(185,141,59);
+    padding-left: 15px;
+    padding-top: 5px;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+
+}
+#ota img{
+    width: 25px;
+    
+     margin-bottom: -5.5px;
+    margin-right: 50px;
+}
+#ota ul{
+    
+    display: flex;
+    list-style: none;
+    margin: 5px;
+    text-align: right;
+    font-weight: 500;
+
+
+}
+#ota ul li{
+    font-size: 20px;
+    margin-right: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    text-align: right;
+    color: white; 
+    margin-top: -30.5px;
+    position: relative;
+
+}
+    
+    
+.earch{
+    border-color: transparent;
+    outline: none;
+    border-radius: 25px;
+    padding: 5px 10px;
+    margin-top: 2px;
+    padding-left: 75px;
+    margin-left: 75%;
+    font-size: 14px;
+    
+
+}
+#two ul li:hover{
+    color: rgb(185,141,59);
+}
+
+
+#one{
+    background-color: white ;
+    margin-bottom: 10px;
+    padding:10px;
+    display: flex;
+    
+
+}
+#one img{
+    width: 18%;
+    margin-top: 47px;
+    margin-left: 20px;
+} 
+.contact{
+    margin-top: 60px;
+    position: absolute;
+    margin-left: 35%;
+    color: rgb(83, 79, 79);
+
+}
+.contact p{
+    display: flex;
+}
+.visit{
+    margin-top: 60px;
+    display: block;
+    margin-left: 75%;
+    position: absolute;
+    color: rgb(83, 79, 79);
+
+}
+ #two{
+    background-color: rgb(0,66,130);
+    
+    
+    
+
+} 
+#two ul{
+    display: flex;
+    list-style: none;
+    margin: 5px;
+    text-align: right;
+
+} 
+#two ul li{
+    font-size: 18px;
+    margin-right: 40px;
+    padding-left: 30px;
+    display: flex;
+    text-align: right;
+    color: white;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#ota ul li:hover{
+    background-color:rgb(201, 171, 116);
+    border-radius: 1px;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background: #f5f5f5;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+   
+}
+.container{
+    width: 500px;
+    height: 450px;
+    background: rgb(185,141,59);
+    box-shadow:  0 8px 8px  rgba(70, 59, 12, 0.486);
+    position: relative;
+    border-radius: 1px;
+    margin: 100px 50px 70px 700px;
+    color: white;
+}
+
+.container h4{
+    font-size: 40px;
+    margin: 0 0 20px 40%;
+    
+}
+.container p{
+    font-size: 20px;
+    margin: 0 0 20px 23%;
+}
+hr{
+    color: white;
+    margin: 0 20px;
+}
+.box{
+    border: transparent;
+    background-color: transparent;
+    margin: 20px 20px;
+    border-color: transparent;
+    font-size: 20px;
+    outline: none;
+    color: white;
+    
+
+}
+.ger p{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 150px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.button{
+    padding: 10px;
+    border-radius: 40px;
+    position: relative;
+    width: 300px;
+    margin: 3% 20%;
+    background-color: white;
+    border: white;
+    color: rgb(185,141,59);
+    font-weight: 700;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
+span{
+    margin: 20px;
+}
+footer{
+ 
+    background-color: #f5f5f5;
+    font-size: 18px;
+    color: #636363;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 2px;
+    height: 30px;
+    
+}
+.end img{
+    width: 20px;
+    padding-right: 20px;
+    align-content: right;
+    
+
+}
+#erro{
+    font-size: 15px;
+    color: red;
+    text-align: left;
+}
+#err{
+    font-size: 15px;
+    color: red;
+}

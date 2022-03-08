@@ -1,0 +1,25 @@
+rgb(0,66,130)
+rgb(185,141,59)
+<i class="fa fa-facebook text-white">
+                <i class="fa fa-twitter text-white">
+                <i class="fa fa-google-plus text-white">
+               <i class="fa fa-book">
+                
+                 <li class="text-white">
+               
+                 <i class="fa fa-ambulance">
+                
+                 <li class="text-white">
+               
+                  <i class="fa fa-newspaper-o">
+                </li>
+                 <li class="text-white">|</li>
+                <li>
+                  <a class="text-white" href="https://codel.babcock.edu.ng"><i class="fa fa-globe"></i> BUCODeL</a>
+                </li>
+              </ul>
+<li><a href="https://www.linkedin.com/company/babcock-university"><i class="fa fa-linkedin text-white"></i></a></li>
+                 <li class="mb-0 pb-0">
+                  <div class="top-dropdown-outer pt-5 pb-10">
+                    <a class="top-search-box has-dropdown text-white text-hover-theme-colored sm-text-center"><i class="fa fa-search font-18">&nbsp;Search</i> &nbsp;</a>
+                    <ul class="dropdown">
